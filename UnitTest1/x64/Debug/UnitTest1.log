@@ -1,0 +1,40 @@
+﻿  UnitTest1.cpp
+D:\NULP\AP\autumn_labs&pract\November\ReadyToLook\ap_t_12\Project2\UnitTest1\UnitTest1.cpp(44,21): error C2665: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function could convert all the argument types
+  (compiling source file '/UnitTest1.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\UnitTest\include\CppUnitTestAssert.h(191,15):
+      could be 'void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual(const wchar_t *,const wchar_t *,bool,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)'
+          D:\NULP\AP\autumn_labs&pract\November\ReadyToLook\ap_t_12\Project2\UnitTest1\UnitTest1.cpp(44,21):
+          'void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual(const wchar_t *,const wchar_t *,bool,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)': cannot convert argument 1 from 'std::string' to 'const wchar_t *'
+              D:\NULP\AP\autumn_labs&pract\November\ReadyToLook\ap_t_12\Project2\UnitTest1\UnitTest1.cpp(44,30):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\UnitTest\include\CppUnitTestAssert.h(172,15):
+      or       'void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual(const char *,const char *,bool,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)'
+          D:\NULP\AP\autumn_labs&pract\November\ReadyToLook\ap_t_12\Project2\UnitTest1\UnitTest1.cpp(44,21):
+          'void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual(const char *,const char *,bool,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)': cannot convert argument 1 from 'std::string' to 'const char *'
+              D:\NULP\AP\autumn_labs&pract\November\ReadyToLook\ap_t_12\Project2\UnitTest1\UnitTest1.cpp(44,30):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\UnitTest\include\CppUnitTestAssert.h(139,36):
+      or       'void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual(const T &,const T &,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)'
+          D:\NULP\AP\autumn_labs&pract\November\ReadyToLook\ap_t_12\Project2\UnitTest1\UnitTest1.cpp(44,21):
+          'void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual(const T &,const T &,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)': template parameter 'T' is ambiguous
+              D:\NULP\AP\autumn_labs&pract\November\ReadyToLook\ap_t_12\Project2\UnitTest1\UnitTest1.cpp(44,21):
+              could be 'const _Elem *'
+          with
+          [
+              _Elem=char
+          ]
+              D:\NULP\AP\autumn_labs&pract\November\ReadyToLook\ap_t_12\Project2\UnitTest1\UnitTest1.cpp(44,21):
+              or       'std::string'
+          D:\NULP\AP\autumn_labs&pract\November\ReadyToLook\ap_t_12\Project2\UnitTest1\UnitTest1.cpp(44,21):
+          'void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual(const T &,const T &,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)': could not deduce template argument for 'const T &' from 'const _Elem *'
+          with
+          [
+              _Elem=char
+          ]
+      D:\NULP\AP\autumn_labs&pract\November\ReadyToLook\ap_t_12\Project2\UnitTest1\UnitTest1.cpp(44,21):
+      while trying to match the argument list '(std::string, const _Elem *)'
+          with
+          [
+              _Elem=char
+          ]
+  

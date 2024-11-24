@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NULP\\AP\\autumn_labs\u0026pract\\November\\ReadyToLook\\ap_t_12\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9EB87F-895A-48BF-B537-B806526D841A}|Project2\\Project2.vcxproj|D:\\NULP\\AP\\autumn_labs\u0026pract\\November\\ReadyToLook\\ap_t_12\\Project2\\Project2\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F9EB87F-895A-48BF-B537-B806526D841A}|Project2\\Project2.vcxproj|solutionrelative:Project2\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C1167C-3759-469B-BD8B-C629F8D97269}|UnitTest1\\UnitTest1.vcxproj|D:\\NULP\\AP\\autumn_labs\u0026pract\\November\\ReadyToLook\\ap_t_12\\Project2\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54C1167C-3759-469B-BD8B-C629F8D97269}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\NULP\\AP\\autumn_labs\u0026pract\\November\\ReadyToLook\\ap_t_12\\Project2\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\NULP\\AP\\autumn_labs\u0026pract\\November\\ReadyToLook\\ap_t_12\\Project2\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T12:18:26.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "D:\\NULP\\AP\\autumn_labs\u0026pract\\November\\ReadyToLook\\ap_t_12\\Project2\\Project2\\FileName.cpp",
+              "RelativeDocumentMoniker": "Project2\\FileName.cpp",
+              "ToolTip": "D:\\NULP\\AP\\autumn_labs\u0026pract\\November\\ReadyToLook\\ap_t_12\\Project2\\Project2\\FileName.cpp",
+              "RelativeToolTip": "Project2\\FileName.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T12:16:54.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
